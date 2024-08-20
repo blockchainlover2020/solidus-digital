@@ -1,0 +1,29 @@
+de:
+  spree:
+    controller:
+      controller_name: Digitale Produkte
+    digitals:
+      broken_file: Achtung! Diese Datei ist korrupt
+      current_file: Aktuelle Datei
+      delete_file: Diese Datei löschen
+      delete_file_confirmation: Sind Sie sicher, dass die Datei %{filename} gelöscht werden soll?
+      digitals: Digitale Produkte
+      digital_delivery: Digitale Auslieferung
+      digital_download: Download %{filename} ↓
+      digital_download_links: Digitale Download Links
+      file_is_not_ready: File is processing, please stand by
+      digital_format:
+        mp3: Audio MP3
+        mobi: Kindle eBook
+        epub: ePub eBook
+        pdf: PDF eBook
+        zip: ZIP-Datei
+      digital_versions: Digitale Versionen
+      downloads_reset: Digitale Downloads zurücksetzen
+      files: Dateien
+      new_file: Neue Datei
+      reset_downloads: Digitale Downloads zurücksetzen
+      unauthorized:
+        explained: Der Download-Link ist nicht mehr gültig.
+        unauthorized: Fehlende Berechtigung
+      upload: Upload
